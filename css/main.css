@@ -52,7 +52,7 @@
   font-weight: 300;
   text-transform: uppercase;
   text-align: center;
-  color: #1755e7;
+  color: #6f5af7;
   letter-spacing: 2px;
 }
 
@@ -155,7 +155,7 @@ body {
   width: 100%;
   transform: translateX(100%);
   transition: 0.5s cubic-bezier(0.65, 0.05, 0.36, 1);
-  background-image: linear-gradient(45deg, rgb(20, 105, 241), rgb(42, 10, 184));
+  background-image: linear-gradient(45deg, rgb(20, 105, 241), rgb(86, 65, 183));
   z-index: 100;
 }
 .nav--active {
@@ -309,7 +309,7 @@ body {
   background-image: linear-gradient(45deg, rgba(20, 105, 241, 0.75), rgba(42, 10, 184, 0.75)), url("../img/island2.jpg");
 }
 .islands__card-img--third {
-  background-image: linear-gradient(45deg, rgba(190, 10, 214, 0.75), rgba(68, 0, 255, 0.75)), url("../img/island3.jpg");
+  background-image: linear-gradient(45deg, rgba(17, 10, 214, 0.716), rgba(68, 0, 255, 0.75)), url("../img/island3.jpg");
 }
 .islands__card-img-title {
   font-family: "Dancing Script", cursive;
@@ -369,11 +369,11 @@ body {
   border-radius: 8px;
   width: 80%;
   border: none;
-  background-color: #00ffaa;
+  background-color: #0084ff;
   cursor: pointer;
 }
 .islands__card-info-btn::before {
-  background-color: #0fe29c;
+  background-color: #5466f0;
 }
 
 .offers {
@@ -420,13 +420,13 @@ body {
   padding: 0.8em;
   width: 100%;
   color: #fff;
-  background-color: #1755e7;
+  background-color: #6f5af7;
   border: none;
   border-radius: 8px;
   cursor: pointer;
 }
 .offers__option-btn::before {
-  background-color: #164dcc;
+  background-color: #4c73f6;
 }
 
 @media (max-width: 767px) {
@@ -461,7 +461,7 @@ body {
 .reviews__box-quote {
   margin-bottom: 1em;
   font-size: 3rem;
-  color: #1755e7;
+  color: #6f5af7;
 }
 .reviews__box-text {
   margin-bottom: 1em;
@@ -508,11 +508,11 @@ body {
   color: #fff;
   border: none;
   border-radius: 8px;
-  background-color: #1755e7;
+  background-color: #6f5af7;
   cursor: pointer;
 }
 .contact__form-btn::before {
-  background-color: #164dcc;
+  background-color: #4c73f6;
 }
 
 .footer {
